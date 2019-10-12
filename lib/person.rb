@@ -1,4 +1,4 @@
 class Person
-  adele_goldberg
+  adele_goldberg=Person.ne
   alan-kay
 end 
